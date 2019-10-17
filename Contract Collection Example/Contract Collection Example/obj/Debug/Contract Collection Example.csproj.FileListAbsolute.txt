@@ -1,0 +1,9 @@
+C:\Users\Ken\source\repos\Contract Collection Example\Contract Collection Example\obj\Debug\Contract Collection Example.csprojAssemblyReference.cache
+C:\Users\Ken\source\repos\Contract Collection Example\Contract Collection Example\obj\Debug\Contract_Collection_Example.Form1.resources
+C:\Users\Ken\source\repos\Contract Collection Example\Contract Collection Example\obj\Debug\Contract_Collection_Example.Properties.Resources.resources
+C:\Users\Ken\source\repos\Contract Collection Example\Contract Collection Example\obj\Debug\Contract Collection Example.csproj.GenerateResource.cache
+C:\Users\Ken\source\repos\Contract Collection Example\Contract Collection Example\bin\Debug\Contract Collection Example.exe.config
+C:\Users\Ken\source\repos\Contract Collection Example\Contract Collection Example\bin\Debug\Contract Collection Example.exe
+C:\Users\Ken\source\repos\Contract Collection Example\Contract Collection Example\bin\Debug\Contract Collection Example.pdb
+C:\Users\Ken\source\repos\Contract Collection Example\Contract Collection Example\obj\Debug\Contract Collection Example.exe
+C:\Users\Ken\source\repos\Contract Collection Example\Contract Collection Example\obj\Debug\Contract Collection Example.pdb
